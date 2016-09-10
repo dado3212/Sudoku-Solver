@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+### Python Version
+
 On a long plane flight, I got stuck on one of the sudoku puzzles in the back of the book.  So, I decided to see if I could write
 a Python program to solve it automatically.  This is the result.
 
@@ -62,3 +64,7 @@ On [the hardest Sudoku in the world](http://www.telegraph.co.uk/news/science/sci
 
 On a [more average Sudoku, yet still hard](http://www.websudoku.com/?level=4&set_id=3277196119) it takes under 1/10 of a second.
 `940020700001004009006000120000003010100000008070500000087000200600900300009080057`
+
+### Web Version
+
+On a similarly long plane ride, I decided to adapt it into a web application.  You can check out the source code on the [`web` branch](tree/web) of this repository, or live at https://alexbeals.com/projects/sudoku.
