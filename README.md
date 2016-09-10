@@ -1,9 +1,12 @@
 # Sudoku Solver
 
-### Python Version
+I originally wrote the Python version of this on a long plane flight, after getting stuck on one of the sudoku puzzles in the back of the book.  Then, on a similarly long flight, I adapted it into a web application.  The web version is in the separate [`web`](tree/web) branch.
 
-On a long plane flight, I got stuck on one of the sudoku puzzles in the back of the book.  So, I decided to see if I could write
-a Python program to solve it automatically.  This is the result.
+### Web Version
+
+You can check out the source code on the [`web` branch](tree/web) of this repository for more information about its functionality or pictures of it in action, or just check out a live version at https://alexbeals.com/projects/sudoku.
+
+### Python Version
 
 It has an interface so that you can quickly enter in a sudoku puzzle, and either complete to see the solution, or step through move by move.  It allows you to view the grid at any time, in both a small view 
 ```
@@ -64,7 +67,3 @@ On [the hardest Sudoku in the world](http://www.telegraph.co.uk/news/science/sci
 
 On a [more average Sudoku, yet still hard](http://www.websudoku.com/?level=4&set_id=3277196119) it takes under 1/10 of a second.
 `940020700001004009006000120000003010100000008070500000087000200600900300009080057`
-
-### Web Version
-
-On a similarly long plane ride, I decided to adapt it into a web application.  You can check out the source code on the [`web` branch](tree/web) of this repository, or live at https://alexbeals.com/projects/sudoku.
