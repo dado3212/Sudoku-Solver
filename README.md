@@ -1,10 +1,10 @@
 # Sudoku Solver
 
-I originally wrote the Python version of this on a long plane flight, after getting stuck on one of the sudoku puzzles in the back of the book.  Then, on a similarly long flight, I adapted it into a web application.  The web version is in the separate [`web`](tree/web) branch.
+I originally wrote the Python version of this on a long plane flight, after getting stuck on one of the sudoku puzzles in the back of the book.  Then, on a similarly long flight, I adapted it into a web application.  The web version is in the separate [`web`](../../tree/web) branch.
 
 ### Web Version
 
-You can check out the source code on the [`web` branch](tree/web) of this repository for more information about its functionality or pictures of it in action, or just check out a live version at https://alexbeals.com/projects/sudoku.
+You can check out the source code on the [`web` branch](../../tree/web) of this repository for more information about its functionality or pictures of it in action, or just check out a live version at https://alexbeals.com/projects/sudoku.
 
 ### Python Version
 
